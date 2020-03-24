@@ -17,7 +17,7 @@ resources:
 - name: ztransform
   type: git
   parameters:
-    url: "git@github.com:zapatacomputing/tutorial-0-welcome.git"
+    url: "git@github.com:zapatacomputing/tutorial-0-ztransform.git"
     branch: "master"
 
 # Data to help you easily work with your workflow
